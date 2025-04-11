@@ -1,0 +1,6 @@
+square_footage,num_floors,has_basement,has_garage,quality,location_tier,cost_in_inr
+1200,2,1,1,High,Tier 1,2500000
+1500,1,0,1,Medium,Tier 2,1800000
+1800,2,1,1,High,Tier 1,3000000
+1000,1,0,0,Low,Tier 3,1000000
+2200,3,1,1,High,Tier 2,3500000
